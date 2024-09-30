@@ -1,1 +1,2 @@
 This is a sample file for Github workflow demonstration
+This is a sample update to the repository.
